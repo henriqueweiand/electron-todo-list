@@ -2,7 +2,6 @@ import { hot } from 'react-hot-loader/root';
 import * as React from 'react';
 import './index.css';
 
-import CounterContainer from '../containers/CounterContainer';
 import PopOver from './PopOver';
 
 const contentStyle = {
